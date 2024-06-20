@@ -1,0 +1,3 @@
+Rashid's Countdown Wizard is a command-line countdown timer application developed in TypeScript. This interactive program allows users to input a countdown duration between 1 and 60 seconds. Utilizing the date-fns library for precise time calculations and inquirer for user prompts, the application provides a seamless user experience. The countdown is displayed in real-time with colorful outputs using chalk, making it visually engaging. Once the countdown reaches zero, a completion message is displayed. Ideal for quick time-tracking tasks, Rashid's Countdown Wizard combines simplicity and functionality in a single script.
+
+"# Typescript-Count-down-Timer" 
